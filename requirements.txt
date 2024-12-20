@@ -7,4 +7,3 @@ marshmallow
 typing-inspect
 tensorflow
 opencv-python-headless
-opencv-python==0
