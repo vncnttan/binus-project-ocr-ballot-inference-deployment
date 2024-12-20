@@ -1,4 +1,3 @@
-opencv-python-headless
 scikit-learn==1.3.0
 joblib==1.3.2
 inference
@@ -8,3 +7,4 @@ numpy
 marshmallow
 typing-inspect
 tensorflow
+opencv-python-headless
